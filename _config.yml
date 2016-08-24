@@ -1,4 +1,3 @@
-layout_spectrum: 0.9814530075527728
 typography_spectrum: 0.5456868554465473
 color:
   brandStrength: 0.9672119771130383
@@ -11,4 +10,6 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
+layout_spectrum: 0.9814530075527728
 name: QUEEN CITY CONCIERGE SERVICE
+title: Catering to your needs
